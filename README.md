@@ -67,6 +67,6 @@ Feel free to reach out to me if you have any questions or if you want to collabo
 
 ---
 
-![Slim's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Slim's GitHub stats](https://github-readme-stats.vercel.app/api?username=slim8&show_icons=true&theme=radical)
 
 <!-- Optionally, you can add other sections like "Projects", "Blog Posts", etc., depending on what you'd like to share on your profile -->
