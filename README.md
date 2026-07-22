@@ -1,72 +1,64 @@
-# 👋 Hello, I'm Slim Khamessi
+<h1 align="center">Hi 👋, I'm Slim Khamessi</h1>
+<h3 align="center">Senior Fullstack Developer · React.js · Next.js · Laravel · 10+ years</h3>
 
-### Développeur Fullstack Senior
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer+%40+LBI+Tunisie;React.js+%2B+Next.js+%2B+GraphQL;Laravel+%2B+PHP+%2B+Filament;Building+ERPs%2C+SaaS+%26+web+apps&font=Fira+Code&center=true&width=520&height=45&color=2E7D8C&vCenter=true&size=20" />
+</p>
 
-I'm Slim Khamessi, a Fullstack Developer based in Tunis, Tunisia, with extensive experience in web development. Currently, I specialize in frontend development with React.js and GraphQL at LBI Tunisia. My versatile skills include Angular, PHP, Laravel, MySQL, and SQLite 3. I have worked on diverse projects, ranging from Chrome extensions to WordPress plugins.
+## 👨‍💻 About Me
 
-## 🛠️ Technologies & Tools
+Fullstack developer based in Tunis, Tunisia, with **10+ years of experience**. Currently leading frontend development at **LBI Tunisie** with React.js, TypeScript and GraphQL — and building ERP, fintech, and SaaS tools independently on the side.
 
-- **Frontend:** React.js, Angular, Ionic, JavaScript, jQuery, TypeScript, HTML, CSS, SCSS, Tailwind, Bootstrap, Jest (unit tests)
-- **Backend:** PHP, Laravel, JWT (JSON Web Tokens)
-- **Databases:** MySQL, SQLite 3
-- **Project Management Tools:** Agile Scrum, Jira, GitLab, GitHub, Bitbucket
-- **Others:** AJAX, GraphQL (GQL), REST APIs
+- 🔭 **Currently working on:** a React/GraphQL real-estate management platform ("Hektor")
+- 🌱 **Currently exploring:** Next.js App Router, Laravel Filament
+- 💬 **Ask me about:** React, Next.js, Laravel, GraphQL, building ERPs & SaaS products
+- ⚡ **Fun fact:** I've shipped everything from Chrome extensions to full ERPs
 
-## 🔧 Professional Experiences
+## 🛠️ Tech Stack
 
-### LBI Tunisie (Since January 2023)
-**Fullstack Developer**
-- Lead UI development using React.js and GraphQL
-- Redesigned the user interface with innovative features and optimized UX
-- Developed advanced React TypeScript components
-- Ensured reliability through rigorous Jest unit testing
-- Optimized GraphQL queries with Apollo in TypeScript
-- Created interactive component documentation with Storybook
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=20232a)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Key Achievement:**
-- Significant contribution to the internal project "Hektor," a real estate management software
+**Backend**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### Softtodo - GIZ La Marsa (April 2021 - December 2022)
-**Fullstack Developer**
-- Designed and implemented robust backend architectures with PHP and Laravel
-- Enhanced UI using Angular and Ionic
-- Applied Agile Scrum methodologies with tools like Jira, GitLab, GitHub, and Bitbucket
+**Database & Tools**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-**Key Projects:**
-- ichwillfair.de, nachhaltige-agrarlieferketten.org, panao.org, thelenashop.com, nationale-naturlandschaften.de, developpp.de
+## 📌 Highlights
 
-### Digital Management Montplaisir (September 2020 - March 2021)
-**Fullstack Developer**
-- Developed custom Chrome extensions using jQuery, JavaScript, and Bootstrap
-- Improved websites such as laboxhomme.com, myformationfrance.fr, and conseils-chirurgies-esthetiques.com
+- **LBI Tunisie** (2023–present) — Leading React/GraphQL frontend development
+- **Freelance since 2020** — ERP, currency exchange, and SaaS management apps, built independently alongside full-time roles
+- **8+ years** across Softtodo (GIZ), Groupe Mediapro, Digital Management, Expertech — full history on my CV / LinkedIn ↓
 
-### Groupe Mediapro El Manar II (November 2017 - August 2020)
-**Fullstack Developer**
-- Developed backend functionalities with Laravel and PHP
-- Created custom WordPress plugins
-- Collaborated with frontend teams using jQuery and SCSS
+## 📊 GitHub Stats
 
-### Expertech Montplaisir Tunisie (July 2015 - October 2017)
-**Frontend Developer**
-- Integrated and designed mockups using jQuery, JavaScript, CSS, and HTML
-- Consumed RESTful APIs with AJAX
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=slim8&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=slim8&theme=radical&hide_border=true" />
+</p>
 
-## 📚 Education & Certifications
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slim8&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-- **Licence Fondamentale en Informatique** - Faculté des Sciences de Tunis Manar
-- **Angular 10 (2021)** - Certified in 2021
-- **Laravel 6 (2019)** - Certified in 2019
+## 📫 Let's Connect
 
-## 📫 Contact
+<p align="left">
+  <a href="mailto:slim.khamessi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <!-- Add your LinkedIn once you have the URL: -->
+  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> -->
+</p>
 
-- **Location:** Tunis, Tunisia
-- **Email:** [slim.khamessi@gmail.com](mailto:slim.khamessi@gmail.com)
-- **Phone:** +216 22 423 101
-
-Feel free to reach out to me if you have any questions or if you want to collaborate on a project!
-
----
-
-![Slim's GitHub stats](https://github-readme-stats.vercel.app/api?username=slim8&show_icons=true&theme=radical)
-
-<!-- Optionally, you can add other sections like "Projects", "Blog Posts", etc., depending on what you'd like to share on your profile -->
+<sub>📍 Tunis, Tunisia</sub>
