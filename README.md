@@ -57,8 +57,7 @@ Fullstack developer based in Tunis, Tunisia, with **10+ years of experience**. C
 
 <p align="left">
   <a href="mailto:slim.khamessi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <!-- Add your LinkedIn once you have the URL: -->
-  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> -->
+    <a href="https://www.linkedin.com/in/slim-khamessi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <sub>📍 Tunis, Tunisia</sub>
